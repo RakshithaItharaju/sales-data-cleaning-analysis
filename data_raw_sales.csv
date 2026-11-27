@@ -1,0 +1,97 @@
+order_id,order_date,customer_name,product,category,quantity,unit_price,region
+ORD1073,2025-04-02,Meena Iyer,Laptop,Electronics,4,55000,South
+ORD1040,2025-02-19,Arjun Das,Smartphone,Electronics,3,22000,West
+ORD1080,2025-02-25,Arjun Das,Laptop,Electronics,3,55000,East
+ORD1019,2025-05-07,Karthik Rao,  headphones ,Accessories,5,2500,west
+ORD1047,2025-04-20,Arjun Das,Office Chair,Furniture,1,7000,South
+ORD1024,2025-10-02,Karthik Rao,Smartphone,Electronics,3,22000,North
+ORD1083,2025-08-09,Priya Sharma,Monitor,Electronics,3,12000,East
+ORD1011,not a date,Priya Sharma,Keyboard,Accessories,2,1500,North
+ORD1089,2025-02-13,Karthik Rao,Headphones,Accessories,5,2500,East
+ORD1010,2025-10-23,Sneha Reddy,  monitor ,Electronics,1,abc,north
+ORD1088,2025-08-15,Divya Nair,Office Chair,Furniture,2,7000,West
+ORD1082,2025-01-23,Arjun Das,Mouse,Accessories,1,800,South
+ORD1013,2025-07-01,Sneha Reddy,Monitor,Electronics,3,12000,North
+ORD1034,2025-08-13,Divya Nair,Monitor,Electronics,-2,12000,South
+ORD1068,2025-02-08,Ravi Teja,,Electronics,5,22000,North
+ORD1033,2025-10-04,Sneha Reddy,Keyboard,Accessories,3,1500,West
+ORD1055,2025-04-15,Meena Iyer,Mouse,Accessories,2,800,East
+ORD1036,2025-01-04,Priya Sharma,Keyboard,Accessories,1,1500,South
+ORD1016,2025-01-17,Meena Iyer,Keyboard,Accessories,4,1500,East
+ORD1079,2025-03-01,Karthik Rao,LAPTOP,Electronics,2,55000,east
+ORD1085,2025-06-01,Ravi Teja,Printer,Office,2,9000,West
+ORD1032,2025-09-01,Ravi Teja,HEADPHONES,Accessories,0,2500,west
+ORD1020,2025-07-05,Sneha Reddy,Printer,Office,2,9000,West
+ORD1041,2025-13-45,Anil Kumar,Printer,Office,1,9000,North
+ORD1007,2025-02-22,Priya Sharma,Monitor,Electronics,4,12000,North
+ORD1009,2025-07-13,Priya Sharma,Smartphone,Electronics,5,22000,East
+ORD1084,2025-06-03,Karthik Rao,Smartphone,Electronics,4,22000,East
+ORD1061,2025-10-11,Karthik Rao,LAPTOP,Electronics,0,55000,SOUTH
+ORD1066,2025-06-20,Ravi Teja,Laptop,Electronics,3,55000,South
+ORD1045,2025-10-09,Priya Sharma,Office Chair,Furniture,1,7000,North
+ORD1072,2025-05-02,Ravi Teja,Headphones,Accessories,2,2500,West
+ORD1005,2025-08-18,Karthik Rao,Keyboard,Accessories,1,1500,South
+ORD1015,2025-05-19,Sneha Reddy,Printer,Office,3,9000,North
+ORD1023,2025-09-28,Karthik Rao,Office Chair,Furniture,5,7000,North
+ORD1051,2025-01-30,Anil Kumar,Monitor,Electronics,5,12000,West
+ORD1087,2025-05-27,Sneha Reddy,Mouse,Accessories,4,800,East
+ORD1058,2025-10-03,Sneha Reddy,Smartphone,Electronics,0,22000,East
+ORD1031,2025-09-06,Priya Sharma,Smartphone,Electronics,5,22000,South
+ORD1057,2025-01-05,Divya Nair,Smartphone,Electronics,5,N/A,North
+ORD1078,2025-11-25,Arjun Das,Monitor,Electronics,5,12000,East
+ORD1028,2025-10-04,Anil Kumar,Headphones,Accessories,5,2500,East
+ORD1018,15/03/2025,Divya Nair,Printer,Office,2,,East
+ORD1086,2025-03-31,Karthik Rao,Printer,Office,4,,North
+ORD1067,2025-10-10,Arjun Das,Office Chair,Furniture,5,7000,North
+ORD1048,2025-01-02,Arjun Das,Printer,Office,3,9000,West
+ORD1053,2025-05-01,Arjun Das,Smartphone,Electronics,1,22000,South
+ORD1014,2025-10-01,Sneha Reddy,Headphones,Accessories,2,2500,West
+ORD1021,2025-01-25,Priya Sharma,Smartphone,Electronics,2,22000,South
+ORD1025,2025-08-11,Ravi Teja,Mouse,Accessories,4,800,North
+ORD1065,2025-11-21,Arjun Das,Smartphone,Electronics,3,22000,North
+ORD1064,2025-09-16,Divya Nair,Mouse,Accessories,3,800,North
+ORD1012,2025-05-23,Divya Nair,Printer,Office,3,9000,South
+ORD1030,2025-01-30,Sneha Reddy,Keyboard,Accessories,5,1500,North
+ORD1009,2025-07-13,Priya Sharma,Smartphone,Electronics,5,22000,East
+ORD1028,2025-10-04,Anil Kumar,Headphones,Accessories,5,2500,East
+ORD1042,2025-06-23,Priya Sharma,Printer,Office,2,9000,South
+ORD1006,2025-06-24,Karthik Rao,  printer ,Office,2,9000,south
+ORD1002,2025-02-22,Priya Sharma,Headphones,Accessories,5,2500,West
+ORD1043,2025-10-02,Divya Nair,Keyboard,Accessories,2,1500,West
+ORD1037,2025-01-17,Meena Iyer,Smartphone,Electronics,1,abc,South
+ORD1038,2025-09-06,Sneha Reddy,Mouse,Accessories,5,800,South
+ORD1026,2025-09-14,Ravi Teja,Mouse,Accessories,5,800,North
+ORD1059,2025-06-28,Priya Sharma,HEADPHONES,Accessories,,2500,east
+ORD1071,2025-05-08,Priya Sharma,Keyboard,Accessories,3,1500,West
+ORD1017,2025-04-19,Meena Iyer,Smartphone,Electronics,2,22000,West
+ORD1053,2025-05-01,Arjun Das,Smartphone,Electronics,1,22000,South
+ORD1022,2025-11-02,Priya Sharma,Printer,Office,4,9000,West
+ORD1052,2025-01-30,Priya Sharma,Headphones,Accessories,2,2500,North
+ORD1044,2025-05-23,Divya Nair,Headphones,Accessories,2,2500,North
+ORD1081,2025-11-07,Priya Sharma,Printer,Office,4,9000,South
+ORD1004,2025-10-15,Sneha Reddy,  laptop ,Electronics,5,55000,WEST
+ORD1076,2025-04-27,Sneha Reddy,Mouse,Accessories,1,800,South
+ORD1056,2025-03-09,Karthik Rao,Printer,Office,4,9000,East
+ORD1035,2025-02-02,Meena Iyer,Keyboard,Accessories,1,1500,South
+ORD1077,2025-06-18,Karthik Rao,Printer,Office,1,9000,East
+ORD1063,2025-05-25,Sneha Reddy,Mouse,Accessories,3,800,South
+ORD1029,2025-01-10,Priya Sharma,Office Chair,Furniture,3,7000,East
+ORD1043,2025-10-02,Divya Nair,Keyboard,Accessories,2,1500,West
+ORD1069,2025-10-26,Ravi Teja,Monitor,Electronics,4,12000,South
+ORD1020,2025-07-05,Sneha Reddy,Printer,Office,2,9000,West
+ORD1090,2025-05-01,Karthik Rao,Smartphone,Electronics,2,22000,South
+ORD1039,2025-05-05,Divya Nair,Office Chair,Furniture,4,7000,South
+ORD1046,2025-05-02,Ravi Teja,Smartphone,Electronics,4,22000,West
+ORD1001,2025-01-13,Karthik Rao,Smartphone,Electronics,2,22000,South
+ORD1062,2025-03-01,Priya Sharma,Mouse,Accessories,5,800,South
+ORD1049,2025-08-05,Divya Nair,Mouse,Accessories,2,800,South
+ORD1074,2025-03-23,Priya Sharma,Mouse,Accessories,4,800,North
+ORD1003,2025-01-16,Priya Sharma,Laptop,Electronics,2,55000,South
+ORD1075,2025-04-24,Sneha Reddy,Office Chair,Furniture,4,7000,East
+ORD1050,2025-04-22,Anil Kumar,Mouse,Accessories,5,800,North
+ORD1054,2025-11-14,Priya Sharma,Laptop,Electronics,4,55000,East
+ORD1027,2025-11-24,Sneha Reddy,Mouse,Accessories,2,800,East
+ORD1008,2025-06-26,Karthik Rao,Monitor,Electronics,1,12000,West
+ORD1054,2025-11-14,Priya Sharma,Laptop,Electronics,4,55000,East
+ORD1060,2025-03-22,Divya Nair,Mouse,Accessories,5,,East
+ORD1070,2025-13-45,Meena Iyer,Laptop,Electronics,1,55000,East
